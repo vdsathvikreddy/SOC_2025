@@ -14,7 +14,6 @@ Python Code: Two Google Colab notebooks for Week 3 (basic preprocessing) and Wee
 
 
 
-LaTeX Documentation: Detailed reports (computer_vision_introduction.tex, diabetic_retinopathy_week4.tex, etc.) explaining the methodology, aligned with SOC 2025’s emphasis on innovative open-source contributions [Web ID: 0, 3].
 
 Dataset
 
@@ -28,7 +27,7 @@ Code
 
 
 
-Week 3 Notebook (week3_dr_processing.ipynb): Implements basic image processing:
+Week 3 Notebook (SOC_WEEK3.ipynb): Implements basic image processing:
 
 
 
@@ -46,7 +45,7 @@ Output: Enhanced images saved as _enhanced.png.
 
 
 
-Week 4 Notebook (week4_dr_advanced.ipynb): Extends Week 3 with:
+Week 4 Notebook (SOC_WEEK4.ipynb): Extends Week 3 with:
 
 
 
